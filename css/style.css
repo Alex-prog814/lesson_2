@@ -1,0 +1,21 @@
+.newClass {
+    width: 250px;
+    height: 250px;
+    background-color: green;
+}
+
+.theme-color__dark {
+    background-color: black;
+    color: white;
+}
+
+.theme-color__light {
+    background-color: orange;
+    color: black;
+}
+
+#block {
+    width: 200px;
+    height: 200px;
+    background: green;
+}
